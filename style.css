@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  width: fit-content;
+}
+canvas {
+  border: 1px solid black;
+}
+.btns {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
